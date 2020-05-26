@@ -4,7 +4,7 @@
   "description": "Calculates distance between two coordinates",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node index.js"
+    "distance": "tsc && node index.js"
   },
   "repository": {
     "type": "git",
